@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Cesar Jiménez
 
-### Estudiante de Ingeniería en Informática  
+### Apasionado por la programación y lo que puede llegar a  hacerse con ella, cada día me gusta aprender algo nuevo.
+Actualmente estudio Ingenería en Informática.
 Apasionado por el desarrollo en **C#, Python, Web y bases de datos**.
 
 ---
@@ -24,11 +25,6 @@ Apasionado por el desarrollo en **C#, Python, Web y bases de datos**.
 
 ---
 
-## 📊 Estadísticas
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Alexiss2077&show_icons=true&theme=react)
-
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiss2077&layout=compact&theme=react)
 
 ---
 
