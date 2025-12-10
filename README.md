@@ -14,7 +14,7 @@ Apasionado por el desarrollo en **C#, Python, Web y bases de datos**.
 
 ---
 
-## 🛠️ Lenguajes y Herramientas
+## 🛠️ Lenguajes y Herramientas que utilizo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -26,9 +26,9 @@ Apasionado por el desarrollo en **C#, Python, Web y bases de datos**.
 
 ## 📊 Estadísticas
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=react)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Alexiss2077O&show_icons=true&theme=react)
 
-![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=react)
+![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiss2077&layout=compact&theme=react)
 
 ---
 
