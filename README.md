@@ -26,7 +26,7 @@ Apasionado por el desarrollo en **C#, Python, Web y bases de datos**.
 
 ## 📊 Estadísticas
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Alexiss2077O&show_icons=true&theme=react)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Alexiss2077&show_icons=true&theme=react)
 
 ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexiss2077&layout=compact&theme=react)
 
